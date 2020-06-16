@@ -1,2 +1,2 @@
 # Project-Flower-FLDs
-Fashion Landmark Detection with a Convolutional Neural Network
+Solo masters project COMP592 Fashion Landmark Detection with a Convolutional Neural Network
