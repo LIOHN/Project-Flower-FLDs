@@ -1,5 +1,6 @@
 # Project-Flower-FLDs
-Solo Masters project "COMP592 Fashion Landmark Detection with a Convolutional Neural Network" 
+Solo Masters project "COMP592 Fashion Landmark Detection with a Convolutional Neural Network"
+This project obtained a grade of over 70% (first) and was developed before I learnt TDD.
 
 In this project, I took on the task of training a machine learning model to predict key points on pictures of garments with the use of CNNs. The challenge was to find a robust and performant architecture that would beat a benchmark model called DFA (deep fashion alignment). 
 
