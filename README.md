@@ -1,9 +1,9 @@
-# Project-Flower-FLDs
+# cnn-landmark-detection
 Solo Masters project "COMP592 Fashion Landmark Detection with a Convolutional Neural Network"
 
-This project obtained a grade of over 70% (first) and was developed before I learnt TDD. Language is Python 3 + TensorFlow 1. Currently looking at migrating to latest TF version (2.3.0)
+This project obtained a grade of over 70%. Project is coded in Python 3 and TensorFlow 1 (Keras, PyTorch and scikit-learn were NOT used).
 
-In this project, I took on the task of training a machine learning model to predict key points on pictures of garments with the use of CNNs. The challenge was to find a robust and performant architecture that would beat a benchmark model called DFA (deep fashion alignment). 
+In this project, I took on the task of training a machine learning model to predict key points on pictures of garments with the use of CNNs . The challenge was to find a robust and performant architecture that would beat a benchmark model called DFA (deep fashion alignment). 
 
 This model was trained using multiple Nvidia GTX 1080-Ti GPUs with preprocessed training data from the DeepFashion Dataset (http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/LandmarkDetection.html).
 
